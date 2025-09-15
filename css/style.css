@@ -416,7 +416,7 @@ input::placeholder {
 }
 
 .request {
-  padding-bottom: 150px;
+  padding: 150px;
 }
 
 .request__inner {
@@ -581,7 +581,7 @@ input::placeholder {
   }
 
   .request {
-    padding-bottom: 50px;
+    padding: 50px 0;
   }
 
   .request__form {
