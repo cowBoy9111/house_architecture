@@ -63,6 +63,17 @@ input::placeholder {
   line-height: 1.16;
 }
 
+.section__input {
+  display: block;
+  padding: 20px;
+  border: 1px solid #171717;
+  font-size: 24px;
+  line-height: 1.16;
+  font-weight: 100;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
 .header {
   background-image: url(../img/header-bg.jpg);
 
@@ -366,17 +377,6 @@ input::placeholder {
   line-height: 1.16;
   font-weight: 300;
   text-transform: uppercase;
-}
-
-.catalog__form-input {
-  display: block;
-  padding: 20px;
-  border: 1px solid #171717;
-  font-size: 24px;
-  line-height: 1.16;
-  font-weight: 100;
-  margin-bottom: 30px;
-  width: 100%;
 }
 
 .catalog__form-label {
