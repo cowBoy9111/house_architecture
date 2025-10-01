@@ -186,6 +186,7 @@ input::placeholder {
 
 .services__list {
   border-top: 1px solid #f5f5f5;
+  margin-bottom: 84px;
 }
 
 .services__item {
@@ -206,6 +207,12 @@ input::placeholder {
 .services__item-text {
   max-width: 800px;
   width: 100%;
+}
+
+.services__btn {
+  padding: 16px 100px;
+  font-size: 16px;
+  border: 1px solid #d9d9d9;
 }
 
 .projects__slider {
